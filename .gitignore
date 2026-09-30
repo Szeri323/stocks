@@ -1,0 +1,9 @@
+# exclude all files and folders
+*
+# allow enterence to the folders
+!*/
+
+# allow track specific files
+!.gitignore
+!*.py
+
